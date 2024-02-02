@@ -1,0 +1,8 @@
+i have created a basic level api which satesfies all the requored conditions given
+in the tesst questions .
+for the authentication i used token based authentication system
+in this a token is created for every user
+The server sends the token back to the client as part of the authentication response.
+The client stores the token locally (e.g., in memory, local storage, or a cookie).
+and that token will be used further for downloading the files
+i used JWT web token formate
